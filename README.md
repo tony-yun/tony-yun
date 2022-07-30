@@ -28,9 +28,9 @@
 </p>
 
 <h3>What I did:</h3>
-<p>Started coding from Dec,2021, I:</p><br/>
-<p>Made 3 apps with React Native</p><br/>
-<p>Edited an existing website with styled-components</p><br/>
-<p>Made the webview app for existing website</p><br/>
+<p>Started coding from Dec,2021, I:</p>
+<p>Made 3 apps with React Native</p>
+<p>Edited an existing website with styled-components</p>
+<p>Made the webview app for existing website</p>
 <p>Tried machine learning, deeping learning to forecast, with using Python</p><br/>
 <p>To be continued...</p>
