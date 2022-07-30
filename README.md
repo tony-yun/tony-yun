@@ -26,3 +26,11 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 </p>
+
+<h3>What I did:</h3>
+<p>Started coding from Dec,2021, I:</p><br/>
+<p>Made 3 apps with React Native</p><br/>
+<p>Edited an existing website with styled-components</p><br/>
+<p>Made the webview app for existing website</p><br/>
+<p>Tried machine learning, deeping learning to forecast, with using Python</p><br/>
+<p>To be continued...</p>
