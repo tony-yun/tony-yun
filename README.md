@@ -28,8 +28,9 @@
 </p>
 
 <h3>What I did:</h3>
-<p>Started coding from Dec,2021 until now(July,2022), I:</p>
+<p>Started coding(from Dec,2021) until now(July,2022), I:</p>
 <p>Made 3 apps with React Native,</p>
 <p>Edited an existing website with styled-components && React,</p>
 <p>Made the webview app for existing website,</p>
 <p>Tried machine learning, deeping learning to forecast, with using Python</p><br/>
+<p>Keep thinking, keep learing, keep coding.</p>
