@@ -28,9 +28,19 @@
 </p>
 
 <h3>What I did:</h3>
-<p>Started coding(from Dec,2021) until now(July,2022), I:</p>
-<p>Made 3 apps with React Native,</p>
-<p>Edited an existing website with styled-components && React,</p>
-<p>Made the webview app for existing website,</p>
-<p>Tried machine learning, deeping learning to forecast, with using Python</p><br/>
-<p>Keep thinking, keep learing, keep coding.</p>
+<p>working in company from Dec,2021 to now(Oct,2022), I:</p>
+<p>Made 3 apps with React Native:</p>
+<p>1. Information App</p>
+<p>Showing information and data which fetched from company server, implemented user login</p>
+<p>2. Camera Recording App</p>
+<p>Implemented auto recording camera app which transfer to server</p>
+<p>3. File Uploading App</p>
+<p>For user who can upload the image or video to server, about 50 users.</p>
+
+<p>Made front-end website with React</p>
+<p>Made the webview app for the website</p>
+<p>Data engineering with python and pandas library.</p>
+<p>Enable to use CRUD in RDBMS, MySQL or Oracle.</p><br/>
+
+<p>Working with Programming language: Javascript, Python</p>
+<p>Living with Human language: Korean, English, Chinese.</p>
