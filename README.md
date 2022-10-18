@@ -44,5 +44,5 @@
 <strong>Data engineering with python and pandas library.</strong><br/>
 <strong>Enable to use CRUD in RDBMS, MySQL or Oracle.</strong><br/>
 
-<p>Working with Programming language: Javascript, Python.</p>
-<p>Living with Human language: Korean, English, Chinese.</p>
+<p>Programming language skills: <u>Javascript, Python.</u></p>
+<p>Human language skills: <u>Korean, English, Chinese.</u></p>
