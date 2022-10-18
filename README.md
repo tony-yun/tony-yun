@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Tony, Front-end developer from <b>Seoul, South Korea</b>, currently living in <b>Seoul, South Korea</b>. </p>
+<p>Welcome to my page! </br> I'm Tony, React & ReactNative Front-end developer from <b>Seoul, South Korea</b>, currently living in <b>Seoul, South Korea</b>. </p>
 
 <h3>Things I code with:</h3>
 <p>
@@ -31,16 +31,16 @@
 <p>working in company from Dec,2021 to now(Oct,2022), I:</p>
 <p>Made 3 apps with React Native:</p>
 <p>1. Information App</p>
-<p>Showing information and data which fetched from company server, implemented user login</p>
+<p>Showing information and data which fetched from company server, implemented user login.</p>
 <p>2. Camera Recording App</p>
-<p>Implemented auto recording camera app which transfer to server</p>
+<p>Implemented auto recording camera app which transfer to server.</p>
 <p>3. File Uploading App</p>
 <p>For user who can upload the image or video to server, about 50 users.</p>
 
-<p>Made front-end website with React</p>
-<p>Made the webview app for the website</p>
+<p>Made front-end website with React.</p>
+<p>Made the webview app for the website.</p>
 <p>Data engineering with python and pandas library.</p>
 <p>Enable to use CRUD in RDBMS, MySQL or Oracle.</p><br/>
 
-<p>Working with Programming language: Javascript, Python</p>
+<p>Working with Programming language: Javascript, Python.</p>
 <p>Living with Human language: Korean, English, Chinese.</p>
