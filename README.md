@@ -47,4 +47,4 @@
 <strong>Enable to use CRUD in RDBMS, MySQL or Oracle.</strong><br/>
 
 <p>Programming language skills: Javascript, Python.</p>
-<p>Human language skills: Korean, English, Chinese.</p>
+<p>Human language skills: Korean, English, Chinese, a little bit Japanese.</p>
