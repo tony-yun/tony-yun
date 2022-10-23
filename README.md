@@ -40,7 +40,7 @@
 <strong>1-2. Camera Recording App</strong>
 <p>Implemented auto recording camera app which transfer to server, for company apk.</p>
 <strong>1-3. File Uploading App</strong>
-<p>For user who can upload the image or video to server, about 50 users.</p><br/>
+<p>For user who can upload the image or video to server, about 50 users.</p>
 
 <strong>2. Webview app for the company website.</strong><br/>
 <strong>3. Designed & Made website with using React.</strong><br/>
