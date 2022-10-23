@@ -34,7 +34,7 @@
 <p>working in company from Dec,2021 ~ Oct,2022, I:</p><br/>
 
 <h4>1. Made 3 apps with React Native:</h4>
-<p>Tech Stack: React-Navigation, Props, Axios, User Auth, Component State, Theme</p>
+<p>Tech Stack: React-Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components...</p>
 <strong>1) Information App</strong>
 <p>Showing user information and data which fetched from company server, implemented user login, about 50 users.</p>
 <strong>2) Camera Recording App</strong>
