@@ -35,16 +35,15 @@
 
 <h4>1. Made 3 apps with React Native:</h4>
 <p>Tech Stack: React-Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
-<strong>1) Information App</strong>
+<strong>1-1. Information App</strong>
 <p>Showing user information and data which fetched from company server, implemented user login, about 50 users.</p>
-<strong>2) Camera Recording App</strong>
+<strong>1-2. Camera Recording App</strong>
 <p>Implemented auto recording camera app which transfer to server, for company apk.</p>
-<strong>3) File Uploading App</strong>
+<strong>1-3. File Uploading App</strong>
 <p>For user who can upload the image or video to server, about 50 users.</p><br/>
 
 <strong>2. Webview app for the company website.</strong><br/>
-<strong>3. Designed & Made website with using React.</strong><br/>
-
+<strong>3. Designed & Made website with using React.</strong>
 <strong>4. Data engineering with using Python and Pandas library.</strong><br/>
 <strong>5. Enable to use CRUD in RDBMS, MySQL or Oracle.</strong><br/>
 
