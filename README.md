@@ -42,11 +42,11 @@
 <strong>3) File Uploading App</strong>
 <p>For user who can upload the image or video to server, about 50 users.</p><br/>
 
-<strong>2. Made the webview app for the website.</strong><br/>
-<strong>3. Made front-end website with React.</strong><br/>
+<strong>2. Webview app for the company website.</strong><br/>
+<strong>3. Designed & Made website with using React.</strong><br/>
 
-<strong>4. Data engineering with python and pandas library.</strong><br/>
+<strong>4. Data engineering with using Python and Pandas library.</strong><br/>
 <strong>5. Enable to use CRUD in RDBMS, MySQL or Oracle.</strong><br/>
 
-<p>Programming language skills: Javascript, Python.</p>
-<p>Human language skills: Korean, English, Chinese, a little bit Japanese.</p>
+<p>Programming Language Skills: Javascript, Python.</p>
+<p>Human Language Skills: Korean(fluent), English(fluent), Chinese(fluent) and Japanese(intermediate).</p>
