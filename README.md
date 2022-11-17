@@ -33,13 +33,15 @@
 <h3>What I did:</h3>
 <p>working in company from Dec,2021 ~ Oct,2022, I:</p><br/>
 
-<h4>1. Made 3 apps with React Native:</h4>
-<p>Tech Stack: React-Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
-<strong>1-1. Information App</strong>
-<p>Showing user information and data which fetched from company server, implemented user login, about 50 users.</p>
-<strong>1-2. Camera Recording App</strong>
+<h4>1. Made 4 apps with React Native:</h4>
+<p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
+<strong>1-1. Information App (Published on AppStore & Google Play Store)</strong>
+<p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents.</p>
+<strong>1-2. Data modifying App</strong>
+<p>For company, employee can modify the data in DB system.</p>
+<strong>1-3. Camera Recording App</strong>
 <p>Implemented auto recording camera app which transfer to server, for company apk.</p>
-<strong>1-3. File Uploading App</strong>
+<strong>1-4. File Uploading App</strong>
 <p>For user who can upload the image or video to server, about 50 users.</p>
 
 <strong>2. Webview app for the company website.</strong><br/>
