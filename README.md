@@ -31,7 +31,7 @@
 </p>
 
 <h3>What I did:</h3>
-<p>working in company from Dec,2021 ~ Oct,2022, I:</p><br/>
+<p>working in company from Dec,2021 ~ Nov,2022, I:</p><br/>
 
 <h4>1. Made 4 apps with React Native:</h4>
 <p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
