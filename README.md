@@ -36,7 +36,7 @@
 <h4>1. Made 4 apps with React Native:</h4>
 <p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
 <strong>1-1. Information App (Published on AppStore & Google Play Store)</strong>
-<p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents.</p>
+<p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents to users.</p>
 <strong>1-2. Data modifying App</strong>
 <p>For company, employee can modify the data in DB system.</p>
 <strong>1-3. Camera Recording App</strong>
