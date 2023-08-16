@@ -31,9 +31,13 @@
 </p>
 
 <h3>What I did:</h3>
-<p>working in company from Dec,2021 ~ Nov,2022, I:</p><br/>
+<p>working in company from Dec,2021 ~ Apr,2023, I:</p><br/>
 
-<h4>1. Made 4 apps with React Native:</h4>
+<h4>1. Maintained 1 app with React Native:</h4>
+<strong>1-1. Education App (Published on AppStore & Google Play Store)</strong>
+<p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p>
+
+<h4>2. Made 4 apps with React Native:</h4>
 <p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
 <strong>1-1. Information App (Published on AppStore & Google Play Store)</strong>
 <p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents to users.</p>
