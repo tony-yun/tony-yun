@@ -33,7 +33,7 @@
 <h3>What I did:</h3>
 <p>working in company from Dec,2021 ~ Apr,2023, I:</p><br/>
 <h4>1. Maintained 1 app with React Native:</h4>
-<strong>1. Education App (Published on AppStore & Google Play Store)</strong>
+<strong>1-1. Education App (Published on AppStore & Google Play Store)</strong>
 <p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p><br/>
 
 <h4>2. Made 4 apps with React Native:</h4>
