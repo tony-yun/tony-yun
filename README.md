@@ -31,6 +31,9 @@
   <a href="https://github.com/tony-yun" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
+    <a href="https://blog.naver.com/lifeyun24" target="_blank">
+    <img alt="Naver" src="https://img.shields.io/badge/Naver-%2312100E.svg?&style=for-the-badge&logo=Naver&logoColor=white" />
+  </a>
 </p>
 
 <h3>What I did:</h3>
