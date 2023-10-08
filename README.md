@@ -4,6 +4,8 @@
 
 <h3>Things I code with:</h3>
 <p>
+  <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/><br/>
+  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
