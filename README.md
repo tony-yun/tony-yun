@@ -6,7 +6,7 @@
 <p>
   <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=uikit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-E34F26?style=for-the-badge&logo=swift&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
