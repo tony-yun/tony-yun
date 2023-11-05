@@ -5,6 +5,7 @@
 <h3>Things I code with:</h3>
 <p>
   <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swiftui-CB3837?style=for-the-badge&logo=swiftui&logoColor=white"/>
   <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
