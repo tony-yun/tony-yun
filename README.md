@@ -42,9 +42,9 @@
 <p>working in company from Dec,2021 ~ Nov,2023, I:</p><br/>
 <h4>1. Published 2 Personal Apps with Swift:</h4>
 <strong>1-1. LED Board App (UIKit, Published on AppStore)</strong>
-<p>It's an LED Board App that shows user's input text which scrolling on device.</p>
+<p>An LED Board App that shows user's input text which scrolling on device, enable to settle color, font, scroll speed, and pause when scrolling.</p>
 <strong>1-2. Grocery List App (SwiftUI, Published on AppStore)</strong>
-<p>It's an Todo List App that for grocery shopping only, user can modify the list of course.</p><br/>
+<p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
 
 <h4>2. Maintained 1 Company App with React Native:</h4>
 <strong>2-1. Education App (Published on AppStore & Google Play Store)</strong>
