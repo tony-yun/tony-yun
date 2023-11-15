@@ -41,24 +41,24 @@
 <h3>What I did:</h3>
 <p>working in company from Dec,2021 ~ Nov,2023, I:</p><br/>
 <h4>1. Published 2 apps with Swift:</h4>
-<strong>1. LED Board App (UIKit, Published on AppStore)</strong>
-<p>It's an LED Board App that shows user's input text which scrolling on device.</p><br/>
-<strong>2. Grocery List App (SwiftUI, Published on AppStore)</strong>
+<strong>1-1. LED Board App (UIKit, Published on AppStore)</strong>
+<p>It's an LED Board App that shows user's input text which scrolling on device.</p>
+<strong>1-2. Grocery List App (SwiftUI, Published on AppStore)</strong>
 <p>It's an Todo List App that for grocery shopping only, user can modify the list of course.</p><br/>
 
-<h4>1. Maintained 1 app with React Native:</h4>
-<strong>3. Education App (Published on AppStore & Google Play Store)</strong>
+<h4>2. Maintained 1 app with React Native:</h4>
+<strong>2-1. Education App (Published on AppStore & Google Play Store)</strong>
 <p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p><br/>
 
-<h4>2. Made 4 apps with React Native:</h4>
+<h4>3. Made 4 apps with React Native:</h4>
 <p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
-<strong>4. Information App (Published on AppStore & Google Play Store)</strong>
+<strong>3-1. Information App (Published on AppStore & Google Play Store)</strong>
 <p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents to users.</p>
-<strong>5. Data modifying App</strong>
+<strong>3-2. Data modifying App</strong>
 <p>For company, employee can modify the data in DB system.</p>
-<strong>6. Camera Recording App</strong>
+<strong>3-3. Camera Recording App</strong>
 <p>Implemented auto recording camera app which transfer to server, for company apk.</p>
-<strong>7. File Uploading App</strong>
+<strong>3-4. File Uploading App</strong>
 <p>For user who can upload the image or video to server, about 50 users.</p>
 
 <strong>2. Webview app for the company website.</strong><br/>
