@@ -43,13 +43,15 @@
 <h4>1. Published 3 Personal Apps with ReactNative / Swift:</h4>
 <strong>1-1. World Movie App (ReactNative, Published on AppStore, 월드무비)</strong>
 <p>An World Movie App that fetchs data from API and shows user according to the sort option, also user can search and save their favorite movie into their collection after email signIn.</p>
-<strong>1-1. LED Board App (UIKit, Published on AppStore, 최애의 아이돌)</strong>
+<strong>1-2. LED Board App (UIKit, Published on AppStore, 최애의 아이돌)</strong>
 <p>An LED Board App that shows user's input text which scrolling on device, enable to settle color, font, scroll speed, and pause when scrolling.</p>
-<strong>1-2. Grocery List App (SwiftUI, Published on AppStore, 오늘의 장보기)</strong>
+<strong>1-3. Grocery List App (SwiftUI, Published on AppStore, 오늘의 장보기)</strong>
 <p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
 
-<h4>2. Maintained 1 Company App with React Native:</h4>
-<strong>2-1. Education App (Published on AppStore & Google Play Store)</strong>
+<h4>2. Maintained 2 Company Apps with React Native:</h4>
+<strong>2-1. App (Published on AppStore & Google Play Store)</strong>
+<p>It's </p><br/>
+<strong>2-2. Education App (Published on AppStore & Google Play Store)</strong>
 <p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p><br/>
 
 <h4>3. Made 4 Company Apps with React Native:</h4>
