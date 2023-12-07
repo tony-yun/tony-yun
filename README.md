@@ -39,11 +39,13 @@
 </p>
 
 <h3>What I did:</h3>
-<p>working in company from Dec,2021 ~ Nov,2023, I:</p><br/>
-<h4>1. Published 2 Personal Apps with Swift:</h4>
-<strong>1-1. LED Board App (UIKit, Published on AppStore)</strong>
+<p>working in company from Dec,2021 ~ Dec,2023, I:</p><br/>
+<h4>1. Published 3 Personal Apps with ReactNative / Swift:</h4>
+<strong>1-1. World Movie App (ReactNative, Published on AppStore, 월드무비)</strong>
+<p>An World Movie App that fetchs data from API and shows user according to the sort option, also user can search and save their favorite movie into their collection after email signIn.</p>
+<strong>1-1. LED Board App (UIKit, Published on AppStore, 최애의 아이돌)</strong>
 <p>An LED Board App that shows user's input text which scrolling on device, enable to settle color, font, scroll speed, and pause when scrolling.</p>
-<strong>1-2. Grocery List App (SwiftUI, Published on AppStore)</strong>
+<strong>1-2. Grocery List App (SwiftUI, Published on AppStore, 오늘의 장보기)</strong>
 <p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
 
 <h4>2. Maintained 1 Company App with React Native:</h4>
