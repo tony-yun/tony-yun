@@ -49,8 +49,8 @@
 <p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
 
 <h4>2. Maintained 2 Company Apps with React Native:</h4>
-<strong>2-1. App (Published on AppStore & Google Play Store)</strong>
-<p>It's </p><br/>
+<strong>2-1. Crypto chatting App (Published on AppStore & Google Play Store)</strong>
+<p>It's communication app that allows users to get information of crypto.</p><br/>
 <strong>2-2. Education App (Published on AppStore & Google Play Store)</strong>
 <p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p><br/>
 
