@@ -4,16 +4,13 @@
 
 <h3>Things I code with:</h3>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Recoil-593D88?style=for-the-badge&logo=recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zustand-593D88?style=for-the-badge&logo=zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/reactQuery-black?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
-
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+  
+  <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
@@ -25,7 +22,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
   
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Python-3774A4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-E6492A?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
