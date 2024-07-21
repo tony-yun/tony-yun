@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/Python-3774A4?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-3774A4?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-E6492A?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
