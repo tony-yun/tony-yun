@@ -38,36 +38,32 @@
 </p>
 
 <h3>What I did:</h3>
-<p>working in company from Dec,2021 ~ Dec,2023, I:</p><br/>
-<h4>1. Published 3 Personal Apps with ReactNative / Swift:</h4>
-<strong>1-1. World Movie App (ReactNative, Published on AppStore, 월드무비)</strong>
-<p>An World Movie App that fetchs data from API and shows user according to the sort option, also user can search and save their favorite movie into their collection after email signIn.</p>
-<strong>1-2. LED Board App (UIKit, Published on AppStore, 최애의 아이돌)</strong>
-<p>An LED Board App that shows user's input text which scrolling on device, enable to settle color, font, scroll speed, and pause when scrolling.</p>
-<strong>1-3. Grocery List App (SwiftUI, Published on AppStore, 오늘의 장보기)</strong>
-<p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
+<p>working in company from Dec 2021 to July 2024, I:</p><br/>
+<h4>1. Maintained 3 Company Apps with React Native (Published on AppStore & Google Play Store):</h4>
+<strong>2-1. E-commerce App</strong>
+<p>An e-commerce platform app that supports coupon trading.</p>
+<strong>2-2. Crypto chatting App</strong>
+<p>A communication app that allows users to get information about crypto.</p>
+<strong>2-3. Education App</strong>
+<p>An education app that includes purchasing, video, text editing, etc.</p><br/>
 
-<h4>2. Maintained 2 Company Apps with React Native:</h4>
-<strong>2-1. Crypto chatting App (Published on AppStore & Google Play Store)</strong>
-<p>It's communication app that allows users to get information of crypto.</p><br/>
-<strong>2-2. Education App (Published on AppStore & Google Play Store)</strong>
-<p>It's the company's main app which contains purchase, video, text editing, login etc. many core functions which a enterprise app should have. My job is to debug&maintain the app according to company's request.</p><br/>
+<h4>2. Published 3 Personal Apps with React Native & Swift:</h4>
+<strong>1-1. World Movie App (React Native, AppStore, 월드무비)</strong>
+<p>An World Movie App that fetchs data from API and shows user according to the sort option, also user can search and save their favorite movie into their collection after email signIn.</p>
+<strong>1-2. LED Board App (UIKit, AppStore, 최애의 아이돌)</strong>
+<p>An LED Board App that shows user's input text which scrolling on device, enable to settle color, font, scroll speed, and pause when scrolling.</p>
+<strong>1-3. Grocery List App (SwiftUI, AppStore, 오늘의 장보기)</strong>
+<p>A Todo List App that for grocery shopping only, of course, user can modify the list. I tried adding onboardingView, tried applying MVVM style.</p><br/>
 
 <h4>3. Made 4 Company Apps with React Native:</h4>
 <p>Tech Stack: React Query, Redux, React Navigation, Props, Axios, User Auth, Component State, Theme, Icon, Splashscreen, Styled-Components, Etc.</p>
 <strong>3-1. Information App (Published on AppStore & Google Play Store)</strong>
 <p>Showing user information and data(image) which fetched from company server, implemented user login, according to login type show different contents to users.</p>
-<strong>3-2. Data modifying App</strong>
-<p>For company, employee can modify the data in DB system.</p>
-<strong>3-3. Camera Recording App</strong>
-<p>Implemented auto recording camera app which transfer to server, for company apk.</p>
-<strong>3-4. File Uploading App</strong>
-<p>For user who can upload the image or video to server, about 50 users.</p>
+<strong>3-2. Additional: Data modifying App, Camera Recording App, File Uploading App</strong><br/><br/>
 
-<strong>+ Webview app for the company website.</strong><br/>
-<strong>+ Designed & Built website with using React.</strong><br/>
-<strong>+ Data engineering with using Python and Pandas library.</strong><br/>
-<strong>+ Enable to use CRUD in RDBMS, MySQL or Oracle.</strong><br/>
+<p>-------------------------------------------------------------</p>
+<strong>+ Also have skills of data engineering with using Python and Pandas library.</strong><br/>
+<strong>++ proficient in backend tasks, including writing APIs and modifying databases, MySQL or Oracle.</strong><br/><br/>
 
-<p>Programming Language Skills: Swift, TypeScript, Python.</p>
+<p>Programming Language Skills: TypeScript, Swift, Python.</p>
 <p>Human Language Skills: Korean(fluent), English(fluent), Chinese(fluent) and Japanese(intermediate).</p>
