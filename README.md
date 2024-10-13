@@ -10,6 +10,7 @@
   
   <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-453F39?style=for-the-badge&logo=zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
