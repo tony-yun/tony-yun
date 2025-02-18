@@ -5,14 +5,17 @@
 <h3>Things I code with:</h3>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+  
+  <img src="https://img.shields.io/badge/React_Native-0984e3?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-453F39?style=for-the-badge&logo=zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
@@ -21,8 +24,7 @@
   
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-0984e3?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/bun-272A36?style=for-the-badge&logo=bun&logoColor=F9F1E1"/><br/>
   
   <img src="https://img.shields.io/badge/Python-3774A4?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-3774A4?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -43,7 +45,14 @@
 <h3>What I Did:</h3>
 <p>From December 2021 to February 2025, I worked at 3 Companies, contributing to various projects, including mobile app maintenance, enterprise system development, and personal app publishing.</p><br/>
 
-<h4>1. Maintained 3 Company Apps with React Native (Published on App Store & Google Play Store):</h4>
+<h3>Specialized Domain:</h3>
+<p>
+  * <strong>E-commerce, Payment systems, Socket communication, Chatting.</strong> *
+</p><br/>
+
+<h4>1. Maintained 3 Company Apps (Published on App Store & Google Play Store):</h4>
+<p><strong>Tech Stack: </strong>React Native, MMKV, User Auth, TanStack Query, Recoil, Zustand, React Navigation, TypeScript, and more.</p>
+
 <strong>1-1. E-commerce App</strong>
 <p>A platform that facilitates coupon trading and online shopping.</p>
 
@@ -54,7 +63,7 @@
 <p>An educational app featuring video streaming, text editing, and in-app purchasing functionalities.</p><br/>
 
 <h4>2. Enterprise System Development & Feature Enhancements:</h4>  
-<p><strong>Tech Stack:</strong> Next.js, TanStack Query, TypeScript, React Navigation, and more.</p>  
+<p><strong>Tech Stack:</strong> Next.js, TanStack Query, Recoil, Express, Sequelize, Socket, TypeScript, and more.</p>  
 
 <strong>2-1. Internal CMS (Corporate Management System) Development</strong>  
 <p>Developed a comprehensive internal CMS for managing company data and user interactions, incorporating role-based access control and data visualization.</p>  
