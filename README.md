@@ -43,7 +43,7 @@
 </p>
 
 <h3>What I Did:</h3>
-<p>From December 2021 to February 2025, I worked at 3 Companies, contributing to various projects, including mobile app maintenance, enterprise system development, and personal app publishing.</p><br/>
+<p>From December 2021 to April 2025, I worked at 4 Companies, contributing to various projects, including mobile app maintenance, enterprise system development, and personal app publishing.</p><br/>
 
 <h3>Specialized Domain:</h3>
 <p>
