@@ -108,8 +108,8 @@ I craft intuitive, high-performance web & mobile interfaces using <b>React Nativ
 ### 🌍 Language Proficiency
 
 - 🇰🇷 **Korean** – Native  
-- 🇨🇳 **Chinese** – Native level (HSK 9, studied & lived abroad for 15+ years)  
-- 🇺🇸 **English** – Business level (OPIc certified)  
+- 🇨🇳 **Chinese** – Native (HSK 9, studied & lived abroad for 15+ years)  
+- 🇺🇸 **English** – Business (OPIc certified)  
 - 🇯🇵 **Japanese** – Conversational (JLPT N2)
 
 
