@@ -38,7 +38,7 @@ I craft intuitive, high-performance web & mobile interfaces using <b>React Nativ
 # 💻 Frontend Engineer · React Native & Next.js Developer
 
 ### 🛠 What I Do
-- Worked at **4 companies** from Dec 2021 to July 2025
+- Worked at **4 companies** since Dec 2021 ~
 - Experience in **mobile app maintenance, enterprise systems, and personal app publishing**
 
 ---
