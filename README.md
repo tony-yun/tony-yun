@@ -98,7 +98,7 @@ I craft intuitive, high-performance web & mobile interfaces using <b>React Nativ
 
 ### 📫 Let’s Connect
 
-- 📧 **Email**: [lifeyun24@naver.com](mailto:lifeyun24@naver.com) / [lifeyun24@gmail.com](mailto:lifeyun24@gmail.com)  
+- 📧 **Email**: [lifeyun0324@gmail.com](mailto:lifeyun0324@gmail.com)  
 - 🌐 **Portfolio**: [tony-yun.github.io](https://tony-yun.github.io/)  
 - 💻 **GitHub**: [github.com/tony-yun](https://github.com/tony-yun)  
 - 📝 **Tech Blog**: [blog.naver.com/lifeyun24](https://blog.naver.com/lifeyun24)
