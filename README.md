@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>👋 Hi, I'm <b>Tony</b> — a frontend developer from <b>Seoul, South Korea</b>.<br/>
-I craft intuitive, high-performance web & mobile interfaces using <b>React Native</b> and <b>Next.js</b>.</p>
+I craft intuitive, high-performance mobile & web interfaces using <b>React Native</b> and <b>Next.js</b>.</p>
 
 <h3>Things I code with:</h3>
 <p>
