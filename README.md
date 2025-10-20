@@ -44,7 +44,7 @@ I craft intuitive, high-performance mobile & web interfaces using <b>React Nativ
 ---
 
 ### 🔍 Specialized Domains
-`E-commerce` · `Payment Systems` · `Socket Communication` · `Design System`
+`Mobile Development(React Native & Swift)` · `CI/CD Pipeline` · `Design System` · `E-commerce` · `Payment System`
 
 ---
 
