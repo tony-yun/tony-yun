@@ -1,40 +1,58 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>👋 Hi, I'm <b>Tony</b> — a frontend developer from <b>Seoul, South Korea</b>.<br/>
-I craft intuitive, high-performance mobile & web interfaces using <b>React Native</b> and <b>Next.js</b>.</p>
+<p>👋 Hi, I'm <b>Tony</b>, a frontend developer from <b>Seoul, South Korea</b>.<br/>
+I specialize in crafting intuitive, high-performance mobile apps (<b>React Native</b>, <b>SwiftUI</b>) and web applications (<b>Next.js</b>).</p>
 
 <h3>Things I code with:</h3>
+
+#### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift-F05139?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ruby-CC332D?style=for-the-badge&logo=ruby&logoColor=white"/><br/>
-  
+  <img src="https://img.shields.io/badge/ruby-CC332D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3774A4?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### 🚀 Frontend Development
+<p>
   <img src="https://img.shields.io/badge/React_Native-0984e3?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-084F7C?style=for-the-badge&logo=Fastlane&logoColor=white"/><br/>
-  
-  <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-453F39?style=for-the-badge&logo=zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
-  
-  <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-0084FB?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-00A0FF?style=for-the-badge&logo=swift&logoColor=white"/><br/>
-  
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-0984e3?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bun-272A36?style=for-the-badge&logo=bun&logoColor=F9F1E1"/><br/>
-  
-  <img src="https://img.shields.io/badge/Python-3774A4?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-3774A4?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-E6492A?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br />
+#### 📱 iOS Development
+<p>
+  <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-0084FB?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-00A0FF?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+#### 🔄 State Management
+<p>
+  <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-453F39?style=for-the-badge&logo=zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+#### 📦 Package Managers
+<p>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/yarn-0984e3?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bun-272A36?style=for-the-badge&logo=bun&logoColor=F9F1E1"/>
+</p>
+
+#### 🛠️ Tools & Libraries
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-084F7C?style=for-the-badge&logo=Fastlane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-3774A4?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-E6492A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+---
+<br/>
 
 # 💻 Frontend Engineer · React Native & Next.js Developer
 
