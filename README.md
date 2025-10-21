@@ -9,8 +9,8 @@ I craft intuitive, high-performance mobile & web interfaces using <b>React Nativ
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/React_Native-0984e3?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
