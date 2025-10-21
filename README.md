@@ -6,22 +6,23 @@ I craft intuitive, high-performance mobile & web interfaces using <b>React Nativ
 <h3>Things I code with:</h3>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/swift-F05139?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-CC332D?style=for-the-badge&logo=ruby&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/React_Native-0984e3?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=Socket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-084F7C?style=for-the-badge&logo=Fastlane&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/Recoil-1572B6?style=for-the-badge&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-453F39?style=for-the-badge&logo=zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/TanStackQuery-CB3837?style=for-the-badge&logo=reactQuery&logoColor=white"/><br/>
   
-  <img src="https://img.shields.io/badge/swift-CB3837?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/xcode-0984e3?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-E34F26?style=for-the-badge&logo=swift&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/UIKit-0084FB?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-00A0FF?style=for-the-badge&logo=swift&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-0984e3?style=for-the-badge&logo=yarn&logoColor=white"/>
