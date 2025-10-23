@@ -56,10 +56,19 @@ I specialize in crafting intuitive, high-performance mobile apps (<b>React Nativ
 
 # 💻 Frontend Engineer · React Native & Next.js Developer
 
-### 🛠 What I Do
-- Worked at **4 companies** since Dec 2021 ~
-- Experience in **mobile app maintenance, enterprise systems, and personal app publishing**
+### 🎓 Education
 
+| Period | University | Degree |
+|--------|------------|--------|
+| ~ 2021.09 | Peking University | Bachelor of Business Administration |
+
+### 💼 Career
+
+| Period | Organization | Role |
+|--------|-------------|------|
+| 2021 ~ | JJnet Inc. | AI Engineer, React Native Developer |
+| 2023 ~ | Hackers Inc. | React Native Developer |
+| 2024 ~ | DoubleNC Inc. | React Native Developer |
 ---
 
 ### 🔍 Specialized Domains
