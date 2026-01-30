@@ -66,10 +66,11 @@ I specialize in crafting intuitive, high-performance mobile apps (<b>React Nativ
 
 | Period | Organization | Role |
 |--------|-------------|------|
-| 2021.12 ~ | JJnet Inc. | AI Engineer, React Native Developer |
-| 2022.12 ~ | Hackers Inc. | React Native Developer |
+| 2025.10 ~ | Mathpresso Inc. | React Native / iOS Developer |
 | 2024.01 ~ | DoubleNC Inc. | React Native Developer |
-| 2025.10 ~ | Mathpresso Inc. | React Native Developer |
+| 2022.12 ~ | Hackers Inc. | React Native Developer |
+| 2021.12 ~ | JJnet Inc. | AI Engineer, React Native Developer |
+
 ---
 
 ### 🔍 Specialized Domains
